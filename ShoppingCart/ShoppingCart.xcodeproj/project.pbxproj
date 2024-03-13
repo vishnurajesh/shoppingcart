@@ -125,7 +125,6 @@
 				27D4206F2B230ADC004F26D5 /* Controllers */,
 				27F31BDF2B3056A900CDE8A4 /* View */,
 				278CE0B12B1F32AC0012830A /* Model */,
-				27F31BE22B4037DC00CDE8A4 /* Resources */,
 				27F31BDE2B30568A00CDE8A4 /* Main */,
 			);
 			path = ShoppingCart;
@@ -187,13 +186,6 @@
 				27F31BE02B30570D00CDE8A4 /* ProductsListsingCell.swift */,
 			);
 			path = View;
-			sourceTree = "<group>";
-		};
-		27F31BE22B4037DC00CDE8A4 /* Resources */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

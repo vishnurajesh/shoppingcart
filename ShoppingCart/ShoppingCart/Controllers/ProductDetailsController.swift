@@ -66,7 +66,6 @@ class ProductDetailsController : UIViewController
         scrollView.addSubview(ratingsLabel)
         scrollView.addSubview(addToCartButton)
         
-        scrollView.alwaysBounceVertical=true
         
         self.view.backgroundColor=UIColor.white
         self.view.addSubview(scrollView)
