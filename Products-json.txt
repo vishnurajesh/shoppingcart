@@ -1,0 +1,57 @@
+
+[
+ {
+   "device": "iPhone 13 Pro",
+   "id": 202,
+   "description": " The latest iPhone series with HQ cameras and 128 GB storage",
+   "price": 72000,
+   "available_count": 24,
+   "total_ratings": 42,
+   "avg_ratingd": 4.3
+ },
+ {
+   "device": "Google PixelX 15",
+   "id": 203,
+   "description": " The latest Pixel phone from Google with HQ cameras and 258 GB storage",
+   "price": 86000,
+   "available_count": 9,
+   "total_ratings": 86,
+   "avg_ratingd": 4.4
+ },
+ {
+   "device": "AirPods Pro",
+   "id": 204,
+   "description": " The ear Piece from Apple series with 2 hours of battery and noise cancellation. This has very high ratings among the user and found to be the biggest hit in the last year. The battery lasts for more than 5 hours. ",
+   "price": 18000,
+   "available_count": 32,
+   "total_ratings": 21,
+   "avg_ratingd": 4.1
+ },
+ {
+   "device": "Bose Airbuds",
+   "id": 205,
+   "description": " The advanced ear buds from Bose with 4 hours of battery and noise cancellation",
+   "price": 22000,
+   "available_count": 46,
+   "total_ratings": 38,
+   "avg_ratingd": 4.3
+ },
+ {
+   "device": "Bose SoundLink flex",
+   "id": 206,
+   "description": " The sound bar with 2o watt speakers and waterproof technology",
+   "price": 16000,
+   "available_count": 73,
+   "total_ratings": 12,
+   "avg_ratingd": 4.3
+ },
+ {
+   "device": "Nike AirJordan Max",
+   "id": 207,
+   "description": " The Cushioning shoe of 2021 ",
+   "price": 9000,
+   "available_count": 3,
+   "total_ratings": 23,
+   "avg_ratingd": 4.9
+ }
+]
