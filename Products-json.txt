@@ -7,7 +7,8 @@
    "price": 72000,
    "available_count": 24,
    "total_ratings": 42,
-   "avg_ratingd": 4.3
+   "avg_ratingd": 4.3,
+   "imageUrl" : "https://i0.wp.com/cellbuddy.in/buddy/wp-content/uploads/2022/09/13-Pro-Sierra-Blue-2.png"
  },
  {
    "device": "Google PixelX 15",
@@ -16,7 +17,8 @@
    "price": 86000,
    "available_count": 9,
    "total_ratings": 86,
-   "avg_ratingd": 4.4
+   "avg_ratingd": 4.4,
+   "imageUrl" : "https://www.mobiledokan.co/wp-content/uploads/2020/07/Google-Pixel-5-XL-500x500.jpg"
  },
  {
    "device": "AirPods Pro",
@@ -25,7 +27,8 @@
    "price": 18000,
    "available_count": 32,
    "total_ratings": 21,
-   "avg_ratingd": 4.1
+   "avg_ratingd": 4.1,
+   "imageUrl" : "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MTJV3?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1694014871985"
  },
  {
    "device": "Bose Airbuds",
@@ -34,7 +37,8 @@
    "price": 22000,
    "available_count": 46,
    "total_ratings": 38,
-   "avg_ratingd": 4.3
+   "avg_ratingd": 4.3,
+   "imageUrl" : "https://media.croma.com/image/upload/v1703923213/Croma%20Assets/Entertainment/Wireless%20Earbuds/Images/303676_j4jvng.png"
  },
  {
    "device": "Bose SoundLink flex",
@@ -43,7 +47,8 @@
    "price": 16000,
    "available_count": 73,
    "total_ratings": 12,
-   "avg_ratingd": 4.3
+   "avg_ratingd": 4.3,
+   "imageUrl" : "https://m.media-amazon.com/images/I/71eLvseXOmL.jpg"
  },
  {
    "device": "Nike AirJordan Max",
@@ -52,6 +57,7 @@
    "price": 9000,
    "available_count": 3,
    "total_ratings": 23,
-   "avg_ratingd": 4.9
+   "avg_ratingd": 4.9,
+   "imageUrl" : "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/36fc9b85-c228-4cb3-a405-2b16a4c85ba0/air-jordan-1-mid-shoes-7cdjgS.png"
  }
 ]
